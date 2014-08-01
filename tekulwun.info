@@ -1,0 +1,33 @@
+name = Tekulwun
+description = Please provide a description for your theme.
+base theme = om_verde_chile
+screenshot = screenshot.png
+engine = phptemplate
+core = 7.x
+
+; ========================================
+; Stylesheets
+; ========================================
+stylesheets[all][] = css/tekulwun.normalize.css
+stylesheets[all][] = css/tekulwun.hacks.css
+stylesheets[all][] = css/tekulwun.styles.css
+stylesheets[all][] = css/tekulwun.no-query.css
+
+; ========================================
+; Scripts
+; ========================================
+scripts[] = js/tekulwun.behaviors.js
+
+; ========================================
+; Regions
+; ========================================
+regions[principal] = Barra Superior
+regions[branding] = Marca
+regions[header] = Encabezado
+regions[navigation] = Barra de Navegación
+regions[highlighted] = Remarcado
+regions[help] = Ayuda
+regions[slider] = Slider
+regions[content] = Contenido
+regions[sidebar_first] = Barra Lateral
+regions[footer] = Footer
