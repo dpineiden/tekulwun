@@ -23,8 +23,8 @@
       </div>        
   </header> 
   <body>
-    <div class="l-wm-slider" role="slider">
-     <?php print render($page['slider']); ?>
+    <div class="l-wm-slider" role="banner">
+     <?php print render($page['banner']); ?>
     </div>	  
 	
     <div class="l-wm-nav" role="navegacion">
