@@ -21,13 +21,19 @@ scripts[] = js/tekulwun.behaviors.js
 ; ========================================
 ; Regions
 ; ========================================
-regions[principal] = Barra Superior
-regions[branding] = Marca
-regions[header] = Encabezado
-regions[navigation] = Barra de Navegación
-regions[highlighted] = Remarcado
-regions[help] = Ayuda
-regions[slider] = Slider
-regions[content] = Contenido
-regions[sidebar_first] = Barra Lateral
-regions[footer] = Footer
+regions[branding]       = Marca
+regions[principal]	= Barra de Usuario
+regions[banner]		= Banner
+regions[navigation]     = Barra de Navegación
+regions[highlighted]    = Destacados
+regions[help]           = Ayuda
+regions[content]        = Contenido
+regions[sidebar_left]	= Lateral Izquierda
+regions[sidebar_media]	= Lateral para Media
+regions[sidebar_right_1] = Lateral Derecha 1
+regions[sidebar_right_2] = Lateral Derecha 2
+regions[pre_footer_1]   = Pre Footer-1
+regions[pre_footer_2]   = Pre Footer-2
+regions[pre_footer_3]   = Pre Footer-3
+regions[footer]         = Footer
+

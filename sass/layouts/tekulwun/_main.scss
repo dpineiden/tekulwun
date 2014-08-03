@@ -1,0 +1,110 @@
+//.l-wm-main{
+ //   @include grid-span(12,1); 
+//}
+.l-wm-slider{
+    @include grid-span(12,1); 
+}
+.l-wm-nav{
+    @include grid-span(12,1);    
+}
+.l-wm-region--breadcrumb{
+    @include grid-span(12,1);  
+}
+.l-wm-region--destacado{
+    @include grid-span(12,1);  
+}
+
+//region central que tiene content y barras laterales
+//.l-wm--region-central{
+//   @include grid-span(12,1);  
+//}
+.l-wm--region-content{
+     @include grid-span(12,1);
+     position: relative;
+     //cambia la distancia entre slider y main
+     @include breakpoint($celular_small){
+        top: 3rem;
+}
+        @include breakpoint($celular){
+    top: 3rem;
+}
+        @include breakpoint($tablet){
+          top: 2.5rem;
+}
+        @include breakpoint($desk_normal){
+          top: 3.5rem; 
+
+}
+        @include breakpoint($desk_wide){
+top:6rem;
+} 
+}
+.l-wm-content{
+	//@include grid-span(8,1); 
+     @include breakpoint($celular_small){
+    @include grid-span(12,1);
+}
+        @include breakpoint($celular){
+    @include grid-span(12,1);
+}
+        @include breakpoint($tablet){
+    @include grid-span(6,1); 
+}
+        @include breakpoint($desk_normal){
+    @include grid-span(6,1); 
+}
+        @include breakpoint($desk_wide){
+    @include grid-span(6,1); 
+}
+}
+
+//lateral izquierda
+
+.l-wm-sidebar-left{
+     @include breakpoint($celular_small){
+    @include grid-span(12,1);
+}
+        @include breakpoint($celular){
+    @include grid-span(12,1);
+}
+        @include breakpoint($tablet){
+    @include grid-span(2,1); 
+}
+        @include breakpoint($desk_normal){
+    @include grid-span(2,1); 
+}
+        @include breakpoint($desk_wide){
+    @include grid-span(2,1); 
+}  
+}
+//barra lateral
+.l-wm--region-sidebar{
+ // @include grid-span(4,9); 
+@include breakpoint($celular_small){
+    @include grid-span(12,1);
+}
+        @include breakpoint($celular){
+    @include grid-span(12,1);
+}
+        @include breakpoint($tablet){
+  @include grid-span(4,9); 
+}
+        @include breakpoint($desk_normal){
+  @include grid-span(4,9); 
+}
+        @include breakpoint($desk_wide){
+  @include grid-span(4,9);  
+}
+}
+.l-wm-sidebar-media{
+    @include grid-span(12,1); 
+}
+.l-wm-sub-lateral{
+      @include grid-span(12,1);   
+}
+.l-wm-sidebar-left{
+    @include grid-span(6,1); 
+}
+.l-wm-sidebar-right{
+    @include grid-span(6,7); 
+}
