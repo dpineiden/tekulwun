@@ -1,7 +1,7 @@
 name = Wallmapu
-description = Un layout para usar como home en sitio Cultura Libre
+description = Un layout para usar como home en sitio Mapuexpress.org
 preview = preview.png
-template = home_verdechile-layout
+template = wallmapu-layout
 
 regions[branding]       = Marca
 regions[principal]	= Barra de Usuario
@@ -9,8 +9,8 @@ regions[banner]		= Banner
 regions[navigation]     = Barra de Navegación
 regions[highlighted]    = Destacados
 regions[help]           = Ayuda
-regions[content]        = Contenido
 regions[sidebar_left]	= Lateral Izquierda
+regions[content]        = Contenido
 regions[sidebar_media]	= Lateral para Media
 regions[sidebar_right_1] = Lateral Derecha 1
 regions[sidebar_right_2] = Lateral Derecha 2
@@ -21,6 +21,6 @@ regions[footer]         = Footer
 
 
 ; Stylesheets
-stylesheets[all][] = css/layouts/home/home.layout.css
-stylesheets[all][] = css/layouts/home/home.layout.no-query.css
-stylesheets[all][] = css/layouts/home/verdechile-home.layout.css
+stylesheets[all][] = css/layouts/wallmapu/wallmapu.layout.css
+stylesheets[all][] = css/layouts/wallmapu/wallmapu.layout.no-query.css
+stylesheets[all][] = css/layouts/wallmapu/tekulwun-wallmapu.layout.css

@@ -38,9 +38,9 @@
     <div class="l-wm-region--breadcrumb" role="breadcrumb">
       <?php print $breadcrumb; ?>  
     </div>
-<div class="l-wm--region-content" role"region de contenidos">
-  <div class="l-wm-sidebar-left" role="Lateral para Media">
-    <?php print render($page['sidebar_media']); ?></div>
+<div class="l-wm--region-content" role"Region de Contenidos">
+  <div class="l-wm-sidebar-left" role="Lateral Izquierda">
+    <?php print render($page['sidebar_left']); ?></div>
 
   <div class="l-wm-content" role="main">        
       <a id="main-content"></a>
@@ -63,8 +63,8 @@
     <div class="l-wm-sidebar-media" role="Lateral para Media">
     <?php print render($page['sidebar_media']); ?></div>
     <div class="l-wm-sub-lateral">
-    <div class="l-wm-sidebar_right_1" role="Lateral Derecha 1 (Izquierda)">
-    <?php print render($page['sidebar__right_1']); ?></div>
+    <div class="l-wm-sidebar-right_1" role="Lateral Derecha 1 (Izquierda)">
+    <?php print render($page['sidebar_right_1']); ?></div>
 
     <div class="l-wm-sidebar-right_2" role="Lateral Derecha 2 (Derecha)">
     <?php print render($page['sidebar_right_2']); ?></div></div>

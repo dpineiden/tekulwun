@@ -20,46 +20,9 @@
 //}
 .l-wm--region-content{
      @include grid-span(12,1);
-     position: relative;
-     //cambia la distancia entre slider y main
-     @include breakpoint($celular_small){
-        top: 3rem;
-}
-        @include breakpoint($celular){
-    top: 3rem;
-}
-        @include breakpoint($tablet){
-          top: 2.5rem;
-}
-        @include breakpoint($desk_normal){
-          top: 3.5rem; 
-
-}
-        @include breakpoint($desk_wide){
-top:6rem;
-} 
-}
-.l-wm-content{
-	//@include grid-span(8,1); 
-     @include breakpoint($celular_small){
-    @include grid-span(12,1);
-}
-        @include breakpoint($celular){
-    @include grid-span(12,1);
-}
-        @include breakpoint($tablet){
-    @include grid-span(6,1); 
-}
-        @include breakpoint($desk_normal){
-    @include grid-span(6,1); 
-}
-        @include breakpoint($desk_wide){
-    @include grid-span(6,1); 
-}
 }
 
 //lateral izquierda
-
 .l-wm-sidebar-left{
      @include breakpoint($celular_small){
     @include grid-span(12,1);
@@ -77,7 +40,29 @@ top:6rem;
     @include grid-span(2,1); 
 }  
 }
-//barra lateral
+
+//contenidos centrales
+.l-wm-content{
+	//@include grid-span(8,1); 
+     @include breakpoint($celular_small){
+    @include grid-span(12,1);
+}
+        @include breakpoint($celular){
+    @include grid-span(12,1);
+}
+        @include breakpoint($tablet){
+    @include grid-span(6,3); 
+}
+        @include breakpoint($desk_normal){
+    @include grid-span(6,3); 
+}
+        @include breakpoint($desk_wide){
+    @include grid-span(6,3); 
+}
+}
+
+
+//barra lateral derecha
 .l-wm--region-sidebar{
  // @include grid-span(4,9); 
 @include breakpoint($celular_small){
@@ -102,9 +87,9 @@ top:6rem;
 .l-wm-sub-lateral{
       @include grid-span(12,1);   
 }
-.l-wm-sidebar-left{
+.l-wm-sidebar-right_1{
     @include grid-span(6,1); 
 }
-.l-wm-sidebar-right{
+.l-wm-sidebar-right_2{
     @include grid-span(6,7); 
 }
