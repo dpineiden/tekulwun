@@ -23,3 +23,45 @@
 @import "layouts/**/*";
 @import "menus/**/*"; 
 @import "hover/**/*"; 
+
+//Banner
+.banner-mapu {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+//Menu contenidos
+.l-wm-nav {
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+    .menu-contenidos{
+    margin: 2px;
+    padding: 5px;
+    text-decoration: none;
+    color: #006BFF;
+    border-left: 2px solid;
+    }
+    .last{
+    	    border-right: 2px solid;
+    	    color: #006BFF;
+    }
+}
+//teaser
+.teaser-cl{
+	 height: 18rem;
+.titulo-teaser {
+    margin-bottom: 4px;
+    padding: 4px;
+}	 
+	.imagen-teaser {
+    float: left;
+    height: auto;
+    width: 30%;
+    padding-top: 18px;
+}
+.summary-teaser {
+    float: right;
+    width: 65%;
+}
+}
+
