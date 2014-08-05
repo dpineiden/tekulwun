@@ -69,4 +69,50 @@
 //Bloque opinion
 .bloque-opinion {
 width: 60%;
+text-align: justify;
+.bloque-titulo-opinion {
+text-align: justify;
+a{
+text-decoration: none;
+color:rgb(39, 36, 75);
+}}
+.bloque-cuerpo-opinion {
+text-align: justify;
+}
+}
+
+.menu-user {
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 15px;
+    width: 70%;
+    .menu-contenidos{
+    margin: 2px;
+    padding: 5px;
+    text-decoration: none;
+    color: #006BFF;
+    border-left: 2px solid;
+    }
+    .last{
+            border-right: 2px solid;
+            color: #006BFF;
+    }
+}
+
+.menu-navegacion {
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 15px;
+    width: 70%;
+    .menu-contenidos{
+    margin: 2px;
+    padding: 5px;
+    text-decoration: none;
+    color: #006BFF;
+    border-left: 2px solid;
+    }
+    .last{
+            border-right: 2px solid;
+            color: #006BFF;
+    }
 }
