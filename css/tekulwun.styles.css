@@ -3092,7 +3092,7 @@ img, media {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\0000351}}
 .teaser-cl {
-  height: 18rem; }
+  height: 12rem; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\0000353}}
   .teaser-cl .titulo-teaser {
     margin-bottom: 4px;
@@ -3107,3 +3107,7 @@ img, media {
   .teaser-cl .summary-teaser {
     float: right;
     width: 65%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\0000370}}
+.bloque-opinion {
+  width: 60%; }
