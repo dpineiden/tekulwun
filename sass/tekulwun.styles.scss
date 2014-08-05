@@ -81,9 +81,18 @@ text-align: justify;
 a{
 text-decoration: none;
 color:rgb(39, 36, 75);
-}}
+}
+&:hover &:active{
+    .opinion-hide{
+        display:block;
+    }
+} 
+}
 .bloque-cuerpo-opinion {
 text-align: justify;
+}
+.opinion-hide {
+display: none;
 }
 }}
 
