@@ -81,12 +81,13 @@ text-align: justify;
 a{
 text-decoration: none;
 color:rgb(39, 36, 75);
-}
+
 &:hover &:active{
     .opinion-hide{
         display:block;
     }
     background-color: $naranjo;
+} 
 } 
 }
 .bloque-cuerpo-opinion {
