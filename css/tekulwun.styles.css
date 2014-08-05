@@ -3129,7 +3129,7 @@ img, media {
         color: #27244b; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\0000385}}
       .l-wm-sidebar-media .bloque-opinion .bloque-titulo-opinion:hover .l-wm-sidebar-media .bloque-opinion .bloque-titulo-opinion:active {
-        background-attachment: orange; }
+        background-color: #ff6600; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\0000386}}
         .l-wm-sidebar-media .bloque-opinion .bloque-titulo-opinion:hover .l-wm-sidebar-media .bloque-opinion .bloque-titulo-opinion:active .opinion-hide {
           display: block; }
