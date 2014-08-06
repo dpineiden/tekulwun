@@ -3237,3 +3237,7 @@ img, media {
   padding-bottom: 5px;
   padding-top: 5px;
   text-align: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003206}}
+.sharethis-wrapper .stMainServices {
+  height: auto; }
