@@ -203,18 +203,16 @@ display: none;
     text-align: center;
 }
 .sharethis-wrapper{
-    padding-bottom: 10px;
-    padding-top: 10px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+
 .stButton{
-    background-repeat: no-repeat;
-    display: inline-block;
-    font-family: Verdana,Helvetica,sans-serif;
-    font-size: 11px;
+
+.st-twitter-counter, .st-facebook-counter, .st-linkedin-counter,
+.st-email-counter,.stMainServices,.st-pinterest-counter
+{
     height: auto;
-    line-height: 16px;
-    padding-bottom: 3px;
-    padding-top: 3px;
-    position: relative;
-    white-space: nowrap;
+}
+
     height: auto;
 }}

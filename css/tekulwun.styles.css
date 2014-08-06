@@ -3240,18 +3240,12 @@ img, media {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003205}}
 .sharethis-wrapper {
-  padding-bottom: 10px;
-  padding-top: 10px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003208}}
+  padding-bottom: 2px;
+  padding-top: 2px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003209}}
   .sharethis-wrapper .stButton {
-    background-repeat: no-repeat;
-    display: inline-block;
-    font-family: Verdana,Helvetica,sans-serif;
-    font-size: 11px;
-    height: auto;
-    line-height: 16px;
-    padding-bottom: 3px;
-    padding-top: 3px;
-    position: relative;
-    white-space: nowrap;
     height: auto; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003213}}
+    .sharethis-wrapper .stButton .st-twitter-counter, .sharethis-wrapper .stButton .st-facebook-counter, .sharethis-wrapper .stButton .st-linkedin-counter,
+    .sharethis-wrapper .stButton .st-email-counter, .sharethis-wrapper .stButton .stMainServices, .sharethis-wrapper .stButton .st-pinterest-counter {
+      height: auto; }
