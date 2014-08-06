@@ -49,7 +49,22 @@
 }
 //teaser
 .teaser-cl{
-	 height: 12rem;
+    float: left;
+    height: 14rem;
+    margin-bottom: .5rem;
+    margin-top: .5rem;
+    position: relative;
+    text-align: justify;
+    background: none repeat scroll 0 0 ;
+
+.date-teaser {
+    background: none repeat scroll 0 0 rgba(120, 80, 60, 0.7);
+    border-color: -moz-use-text-color;
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 1px 1px 3px;
+}
+
 .titulo-teaser {
     margin-bottom: 4px;
     padding: 4px;
@@ -64,38 +79,65 @@
     float: right;
     width: 65%;
 }
+.views-more-link {
+    float: right;
+}
+}
+////COntenido
+//articulos
+.field.field--name-body {
+    text-align: justify;
 }
 
+
+
+///
 #block-views-columnas-de-opinion-block {
-font-size: .8rem;
+font-size: .6rem;
 }
 .l-wm-sidebar-media {
 width: 50%;
 float: left;
 //Bloque opinion
-.bloque-opinion {
+.bloque-opinion{
+  background: none repeat scroll 0 0 rgba(149, 131, 84, 0.44);
+    margin-bottom: 5px;
+    margin-top: 5px;  
 width: 100%;
 text-align: justify;
+ border-bottom: 1px solid;
+    border-left: 1px solid;
+    border-right: 1px solid;
+.date {
+    background: none repeat scroll 0 0 rgba(120, 80, 60, 0.7);
+    border-color: -moz-use-text-color;
+    border-style: solid;
+    border-radius: 2px;
+    border-style: solid;
+    border-width: 1px 0 2px;
+}
 .bloque-titulo-opinion {
 text-align: justify;
-a{
+        a{
 text-decoration: none;
 color:rgb(39, 36, 75);
 
 &:hover &:active{
-    .opinion-hide{
+    .opinion-hide   {
         display:block;
-    }
+                    }
     background-color: $naranjo;
-} 
-} 
-}
+                } 
+        } 
+                        } 
+
 .bloque-cuerpo-opinion {
 text-align: justify;
 }
 .opinion-hide {
 display: none;
 }
+.bloque-autor-opinion{display: none;}
 }}
 
 .menu-user {
@@ -132,4 +174,21 @@ display: none;
             border-right: 2px solid;
             color: #006BFF;
     }
+}
+
+.noticias-articulos {
+    background: none repeat scroll 0 0 rgba(162, 91, 44, 0.8);
+    border: 2px solid;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.titulo-opinion {
+    background: none repeat scroll 0 0 rgba(162, 91, 44, 0.8);
+    border: 2px solid;
+    font-size: 0.6rem;
+    text-align: left;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-align: center;
 }
