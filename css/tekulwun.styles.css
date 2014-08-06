@@ -3238,6 +3238,20 @@ img, media {
   padding-top: 5px;
   text-align: center; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003206}}
-.sharethis-wrapper .stMainServices {
-  height: auto; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003205}}
+.sharethis-wrapper {
+  padding-bottom: 10px;
+  padding-top: 10px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003208}}
+  .sharethis-wrapper .stButton {
+    background-repeat: no-repeat;
+    display: inline-block;
+    font-family: Verdana,Helvetica,sans-serif;
+    font-size: 11px;
+    height: auto;
+    line-height: 16px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    position: relative;
+    white-space: nowrap;
+    height: auto; }
