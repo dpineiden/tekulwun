@@ -63,7 +63,6 @@
     margin-top: .5rem;
     position: relative;
     text-align: justify;
-    background: none repeat scroll 0 0 rgba(194, 226, 255, 0.23);
     border-bottom: 1px dashed;
 
 .titulo-teaser {
@@ -99,11 +98,11 @@
 font-size: .6rem;
 }
 .l-wm-sidebar-media {
-width: 50%;
+width: 100%;
 float: left;
 //Bloque opinion
 .bloque-opinion{
-    background: none repeat scroll 0 0 rgba(194, 226, 255, 0.23);
+    background: none repeat scroll 0 0 #F5F5F5;
     border-bottom: 2px dashed;
     margin-bottom: 2px;
     margin-top: 2px;
@@ -212,7 +211,16 @@ display: none;
 //barra lateral izquierda
 
 .l-wm-sidebar-left {
-    background: none repeat scroll 0 0 rgba(235, 252, 255, 0.9);
+    background: none repeat scroll 0 0 #F5F5F5;
     float: left;
     height: 1300px;
+ }
+
+ .bloque-actividad{
+
+    .bloque-cuerpo-actividad {
+    font-size: 0.8rem;
+    text-align: justify;
+}
+
  }
