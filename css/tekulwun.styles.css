@@ -3259,8 +3259,8 @@ img, media {
   margin-bottom: 2px;
   margin-top: 2px; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003223}}
-  .item-bloque-actividades .date-display-single {
-    font-size: 0.6rem; }
+  .item-bloque-actividades .fecha-hora-actividad {
+    font-size: 0.8rem; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003226}}
   .item-bloque-actividades .item-bloque-lugar-actividad {
     font-size: 0.6rem; }
