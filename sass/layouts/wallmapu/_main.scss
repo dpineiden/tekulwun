@@ -34,13 +34,13 @@
     @include grid-span(12,1);
 }
         @include breakpoint($tablet){
-    @include grid-span(2,1); 
+    @include grid-span(3,1); 
 }
         @include breakpoint($desk_normal){
-    @include grid-span(2,1); 
+    @include grid-span(3,1); 
 }
         @include breakpoint($desk_wide){
-    @include grid-span(2,1); 
+    @include grid-span(3,1); 
 }  
 }
 
@@ -54,13 +54,13 @@
     @include grid-span(12,1);
 }
         @include breakpoint($tablet){
-    @include grid-span(6,3); 
+    @include grid-span(6,4); 
 }
         @include breakpoint($desk_normal){
-    @include grid-span(6,3); 
+    @include grid-span(6,4); 
 }
         @include breakpoint($desk_wide){
-    @include grid-span(6,3); 
+    @include grid-span(6,4); 
 }
 }
 
@@ -75,13 +75,13 @@
     @include grid-span(12,1);
 }
         @include breakpoint($tablet){
-  @include grid-span(4,9); 
+  @include grid-span(3,10); 
 }
         @include breakpoint($desk_normal){
-  @include grid-span(4,9); 
+  @include grid-span(3,10); 
 }
         @include breakpoint($desk_wide){
-  @include grid-span(4,9);  
+  @include grid-span(3,10);  
 }
 }
 .l-wm-sidebar-media{
