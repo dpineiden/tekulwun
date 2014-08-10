@@ -133,15 +133,6 @@ font-size: .6rem;
 width: 100%;
 float: left;
 
-//zona de buqueda
-#block-search-form {
-    display: inline-flex;
-    margin: 5px;
-.form-text {
-    width: 60%;
-}}
-
-
 //Bloque opinion
 .bloque-opinion{
     background: none repeat scroll 0 0 #F5F5F5;
@@ -317,3 +308,11 @@ display: none;
     margin-top: 2px;
 }
 }
+
+//zona de buqueda
+#block-search-form {
+    display: inline-flex;
+    margin: 5px;
+.form-text {
+    width: 60%;
+}}

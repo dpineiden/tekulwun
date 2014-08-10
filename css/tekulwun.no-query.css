@@ -3099,13 +3099,6 @@ img, media {
   width: 100%;
   float: left; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003137}}
-  .l-wm-sidebar-media #block-search-form {
-    display: inline-flex;
-    margin: 5px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003140}}
-    .l-wm-sidebar-media #block-search-form .form-text {
-      width: 60%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003146}}
   .l-wm-sidebar-media .bloque-opinion {
     background: none repeat scroll 0 0 #F5F5F5;
     border-bottom: 2px dashed;
@@ -3114,78 +3107,78 @@ img, media {
     padding: 2px;
     text-align: justify;
     width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003154}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003145}}
     .l-wm-sidebar-media .bloque-opinion .date {
       float: left;
       margin-right: 12px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003158}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003149}}
     .l-wm-sidebar-media .bloque-opinion .bloque-titulo-opinion {
       text-align: justify;
       font-size: .9rem; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003161}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003152}}
       .l-wm-sidebar-media .bloque-opinion .bloque-titulo-opinion a {
         text-decoration: none;
         color: #27244b; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003165}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003156}}
         .l-wm-sidebar-media .bloque-opinion .bloque-titulo-opinion a:hover .l-wm-sidebar-media .bloque-opinion .bloque-titulo-opinion a:active {
           background-color: #ff6600; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003166}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003157}}
           .l-wm-sidebar-media .bloque-opinion .bloque-titulo-opinion a:hover .l-wm-sidebar-media .bloque-opinion .bloque-titulo-opinion a:active .opinion-hide {
             display: block; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003174}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003165}}
     .l-wm-sidebar-media .bloque-opinion .bloque-cuerpo-opinion {
       text-align: justify; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003177}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003168}}
     .l-wm-sidebar-media .bloque-opinion .opinion-hide {
       display: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003180}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003171}}
     .l-wm-sidebar-media .bloque-opinion .bloque-autor-opinion {
       display: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003185}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003176}}
 .menu-user {
   margin-left: 15%;
   margin-right: 15%;
   margin-bottom: 15px;
   width: 70%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003190}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003181}}
   .menu-user .menu-contenidos {
     margin: 2px;
     padding: 5px;
     text-decoration: none;
     color: #006BFF;
     border-left: 2px solid; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003197}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003188}}
   .menu-user .last {
     border-right: 2px solid;
     color: #006BFF; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003203}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003194}}
 .menu-navegacion {
   margin-left: 15%;
   margin-right: 15%;
   margin-bottom: 15px;
   width: 70%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003208}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003199}}
   .menu-navegacion .menu-contenidos {
     margin: 2px;
     padding: 5px;
     text-decoration: none;
     color: #006BFF;
     border-left: 2px solid; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003215}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003206}}
   .menu-navegacion .last {
     border-right: 2px solid;
     color: #006BFF; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003221}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003212}}
 .noticias-articulos {
   background: none repeat scroll 0 0 rgba(162, 91, 44, 0.8);
   border: 2px solid;
   font-size: 1rem;
   text-align: center; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003228}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003219}}
 .titulo-opinion {
   background: none repeat scroll 0 0 rgba(162, 91, 44, 0.8);
   border: 2px solid;
@@ -3196,78 +3189,86 @@ img, media {
   text-align: center;
   display: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003238}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003229}}
 .sharethis-wrapper {
   padding-bottom: 2px;
   padding-top: 2px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003242}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003233}}
   .sharethis-wrapper .stButton {
     height: auto; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003246}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003237}}
     .sharethis-wrapper .stButton .st-twitter-counter, .sharethis-wrapper .stButton .st-facebook-counter, .sharethis-wrapper .stButton .st-linkedin-counter,
     .sharethis-wrapper .stButton .st-email-counter, .sharethis-wrapper .stButton .stMainServices, .sharethis-wrapper .stButton .st-pinterest-counter {
       height: auto; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003255}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003246}}
 .l-wm-sidebar-left {
   background: none repeat scroll 0 0 #F5F5F5;
   float: left;
   height: 1300px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003261}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003252}}
 .item-bloque-actividades {
   border-bottom: 2px dashed;
   margin-bottom: 2px;
   margin-top: 2px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003265}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003256}}
   .item-bloque-actividades .fecha-hora-actividad {
     font-size: 0.8rem;
     margin-bottom: 1px;
     margin-top: 8px;
     font-weight: bolder; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003271}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003262}}
   .item-bloque-actividades .item-bloque-lugar-actividad {
     font-size: 1.1rem; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003273}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003264}}
     .item-bloque-actividades .item-bloque-lugar-actividad a {
       text-decoration: none;
       color: rgba(10, 17, 67, 0.96); }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003276}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003267}}
   .item-bloque-actividades .item-bloque-titulo-actividad {
     font-size: 0.8rem; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003278}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003269}}
     .item-bloque-actividades .item-bloque-titulo-actividad a {
       text-decoration: none;
       color: black;
       font-weight: bolder; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003282}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003273}}
   .item-bloque-actividades .item-bloque-cuerpo-actividad {
     font-size: 0.8rem;
     text-align: justify; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003290}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003281}}
 .field__items {
   display: inline-flex;
   float: left;
   margin-left: 5px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003294}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003285}}
   .field__items .field__item {
     margin-left: 2px;
     margin-right: 2px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003300}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003291}}
 .field field--name-field-tags field--type-taxonomy-term-reference field--label-above .field__label {
   float: left; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003306}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003297}}
 .group-clasificacion {
   border: medium none;
   margin: 10px;
   padding: 5px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003311}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003302}}
   .group-clasificacion .fieldset-legend {
     display: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003306}}
   .group-clasificacion .field {
     margin-bottom: 2px;
     margin-top: 2px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003313}}
+#block-search-form {
+  display: inline-flex;
+  margin: 5px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003316}}
+  #block-search-form .form-text {
+    width: 60%; }
