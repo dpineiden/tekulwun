@@ -3620,3 +3620,9 @@ img, media {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003290}}
 .field field--name-field-tags field--type-taxonomy-term-reference field--label-above .field__label {
   float: left; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003296}}
+.group-clasificacion {
+  border: medium none;
+  margin: 10px;
+  padding: 5px; }
