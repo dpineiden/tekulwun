@@ -3247,3 +3247,7 @@ img, media {
   .field__items .field__item {
     margin-left: 2px;
     margin-right: 2px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003290}}
+.field field--name-field-tags field--type-taxonomy-term-reference field--label-above .field__label {
+  float: left; }

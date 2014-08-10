@@ -285,3 +285,9 @@ display: none;
     margin-left: 2px;
     margin-right: 2px;
 }}
+//etiqueta en articulos:
+.field field--name-field-tags field--type-taxonomy-term-reference field--label-above{
+.field__label {
+    float: left;
+}
+}
