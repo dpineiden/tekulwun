@@ -113,6 +113,22 @@ font-size: .6rem;
 }
 
 }
+//para layout de articulos
+.l-wm-art-slider{
+    float: right;
+    height: auto;
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+
+    img, media {
+    height: auto;
+    max-width: 100%;
+    width: 100%;
+}
+
+}
+
 .l-wm-sidebar-media {
 width: 100%;
 float: left;
