@@ -3099,11 +3099,11 @@ img, media {
   width: 100%;
   float: left; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003137}}
-  .l-wm-sidebar-media .form-item-search-block-form {
-    margin-top: 5px;
-    margin-bottom: 5px; }
+  .l-wm-sidebar-media #block-search-form {
+    display: inline-flex;
+    margin: 5px; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003140}}
-    .l-wm-sidebar-media .form-item-search-block-form .form-text {
+    .l-wm-sidebar-media #block-search-form .form-text {
       width: 60%; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\00003146}}
   .l-wm-sidebar-media .bloque-opinion {

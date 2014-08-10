@@ -134,9 +134,9 @@ width: 100%;
 float: left;
 
 //zona de buqueda
-.form-item-search-block-form{
-    margin-top: 5px;
-    margin-bottom: 5px;
+#block-search-form {
+    display: inline-flex;
+    margin: 5px;
 .form-text {
     width: 60%;
 }}
