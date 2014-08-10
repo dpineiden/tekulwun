@@ -3371,20 +3371,20 @@ img, media {
   margin-bottom: 1rem; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\0000333}}
-.l-wm-nav {
+.l-wm-nav, .l-wm-art-nav {
   margin-left: 15%;
   margin-right: 15%;
   margin-bottom: 15px;
   width: 70%; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\0000338}}
-  .l-wm-nav .menu-contenidos {
+  .l-wm-nav .menu-contenidos, .l-wm-art-nav .menu-contenidos {
     margin: 2px;
     padding: 5px;
     text-decoration: none;
     color: #006BFF;
     border-left: 2px solid; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/tekulwun\/sass\/tekulwun\.styles\.scss}line{font-family:\0000345}}
-  .l-wm-nav .last {
+  .l-wm-nav .last, .l-wm-art-nav .last {
     border-right: 2px solid;
     color: #006BFF; }
 
