@@ -1,0 +1,80 @@
+//.l-wm-art-main{
+ //   @include grid-span(12,1); 
+//}
+.l-wm-art-slider{
+    @include grid-span(12,1); 
+}
+.l-wm-art-nav{
+    @include grid-span(12,1);    
+}
+.l-wm-art-region--breadcrumb{
+    @include grid-span(12,1);  
+}
+.l-wm-art-region--destacado{
+    @include grid-span(12,1);  
+}
+
+//region central que tiene content y barras laterales
+//.l-wm-art--region-central{
+//   @include grid-span(12,1);  
+//}
+.l-wm-art--region-content{
+    @include grid-span(12,1);
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+}
+
+
+//contenidos centrales
+.l-wm-art-content{
+	//@include grid-span(8,1); 
+     @include breakpoint($celular_small){
+    @include grid-span(12,1);
+}
+        @include breakpoint($celular){
+    @include grid-span(12,1);
+}
+        @include breakpoint($tablet){
+    @include grid-span(9,1); 
+}
+        @include breakpoint($desk_normal){
+    @include grid-span(9,1); 
+}
+        @include breakpoint($desk_wide){
+    @include grid-span(9,1); 
+}
+}
+
+
+//barra lateral derecha
+.l-wm-art-sidebar-right{
+ // @include grid-span(4,9); 
+@include breakpoint($celular_small){
+    @include grid-span(12,1);
+}
+        @include breakpoint($celular){
+    @include grid-span(12,1);
+}
+        @include breakpoint($tablet){
+  @include grid-span(3,10); 
+}
+        @include breakpoint($desk_normal){
+  @include grid-span(3,10); 
+}
+        @include breakpoint($desk_wide){
+  @include grid-span(3,10);  
+}
+}
+.l-wm-art-sidebar-media{
+    @include grid-span(12,1); 
+}
+.l-wm-art-sub-lateral{
+      @include grid-span(12,1);   
+}
+.l-wm-art-sidebar-right_1{
+    @include grid-span(6,1); 
+}
+.l-wm-art-sidebar-right_2{
+    @include grid-span(6,7); 
+}

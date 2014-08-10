@@ -68,7 +68,6 @@
 .titulo-teaser {
     margin-bottom: 4px;
     padding: 4px;
-    text-transform: uppercase;
     a{text-decoration: none;
     color: #000000;
     font-size: 1rem;
@@ -99,6 +98,13 @@
 ///
 #block-views-columnas-de-opinion-block {
 font-size: .6rem;
+}
+.-l-wm-slider{
+    float: right;
+    height: auto;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
 }
 .l-wm-sidebar-media {
 width: 100%;
@@ -246,3 +252,13 @@ display: none;
 }
 
  }
+
+//Definiendo estilos en contenidos
+.field__items{
+    display: inline-flex;
+    float: left;
+    margin-left: 5px;
+.field__item{
+    margin-left: 2px;
+    margin-right: 2px;
+}}

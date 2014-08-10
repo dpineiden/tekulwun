@@ -28,6 +28,7 @@ regions[navigation]     = Barra de Navegación
 regions[highlighted]    = Destacados
 regions[help]           = Ayuda
 regions[sidebar_left]	= Lateral Izquierda
+regions[sidebar_right] = Lateral Derecha
 regions[content]        = Contenido
 regions[sidebar_media]	= Lateral para Media
 regions[sidebar_right_1] = Lateral Derecha 1

@@ -1,0 +1,23 @@
+//footer
+
+.l-wm-art--region-footer{
+@include grid-span(12,1);
+}
+.l-wm-art-region-prefooter{
+
+ @include grid-span(12,1);
+}
+.l-wm-art-prefooter1{
+    @include grid-span(4,1); 
+}
+
+.l-wm-art-prefooter2{
+    @include grid-span(4,5); 
+}
+
+.l-wm-art-prefooter3{
+    @include grid-span(4,9); 
+}
+
+.l-wm-art-footer{ @include grid-span(12,1); 
+}  
