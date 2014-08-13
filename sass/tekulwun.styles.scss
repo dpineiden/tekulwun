@@ -79,6 +79,10 @@
     height: auto;
     width: 30%;
     padding-top: 18px;
+    img{
+        width: 100%;
+        height: auto;
+    }
 }
 .summary-teaser {
     float: right;
@@ -137,7 +141,7 @@ float: left;
 //Bloque opinion
 .bloque-opinion{
     background: none repeat scroll 0 0 #F5F5F5;
-    border-bottom: 2px dashed;
+    border-bottom: 1px solid rgba(125, 142, 160, 0.8);
     margin-bottom: 2px;
     margin-top: 2px;
     padding: 2px;
@@ -251,7 +255,7 @@ display: none;
  }
 
  .item-bloque-actividades{
-   border-bottom: 2px dashed;
+   border-bottom:1px solid rgba(125, 142, 160, 0.8);
     margin-bottom: 2px;
     margin-top: 2px;
 .fecha-hora-actividad {
