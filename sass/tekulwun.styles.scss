@@ -23,6 +23,22 @@
 @import "layouts/**/*";
 @import "menus/**/*"; 
 @import "hover/**/*"; 
+//Todo el cuerpo a 70%
+
+.l-wm-header,.l-wm-slider,.l-wm-nav,.l-wm-region--destacado,.l-wm-region--breadcrumb,.l-wm--region-footer{
+    width:70%;
+    margin: 0 auto;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.l-wm-art-header,.l-wm-art-slider,.l-wm-art-nav,.l-wm-art-region--destacado,.l-wm-art-region--breadcrumb,.l-wm-art--region-footer{
+    width:70%;
+    margin: 0 auto;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
 
 //Banner
 .banner-mapu {
@@ -31,10 +47,7 @@
 }
 //Menu contenidos
 .l-wm-nav, .l-wm-art-nav{
-    margin-left: 15%;
-    margin-right: 15%;
     margin-bottom: 15px;
-    width: 70%;
     .menu-contenidos{
     margin: 2px;
     padding: 5px;
@@ -107,9 +120,6 @@ font-size: .6rem;
 .l-wm-slider{
     float: right;
     height: auto;
-    margin-left: 15%;
-    margin-right: 15%;
-    width: 70%;
 
     img, media {
     height: auto;
@@ -122,9 +132,6 @@ font-size: .6rem;
 .l-wm-art-slider{
     float: right;
     height: auto;
-    margin-left: 15%;
-    margin-right: 15%;
-    width: 70%;
 
     img, media {
     height: auto;
@@ -251,7 +258,6 @@ display: none;
 .l-wm-sidebar-left {
     background: none repeat scroll 0 0 #F5F5F5;
     float: left;
-    height: 1300px;
  }
 
  .item-bloque-actividades{
